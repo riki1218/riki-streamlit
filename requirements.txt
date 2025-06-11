@@ -1,0 +1,11 @@
+treamlit
+numpy
+pandas
+RunnablePassthrough, RunnableLambda
+StrOutputParser
+ChatPromptTemplate
+WebBaseLoader
+HuggingFaceEmbeddings
+Chroma
+ChatGoogleGenerativeAI
+RecursiveCharacterTextSplitter

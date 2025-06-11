@@ -1,0 +1,13 @@
+# .streamlit/config.toml
+
+[theme]
+# プライマリカラー (ボタンなどの強調色)
+primaryColor="#FF4B4B"
+# 背景色 (アプリのメイン背景色)
+backgroundColor="#F0F2F6" # 薄いグレー
+# セカンダリ背景色 (サイドバーやウィジェットの背景色)
+secondaryBackgroundColor="#FFFFFF"
+# テキストの色
+textColor="#262730"
+# フォント (Sans-serif, Serif, Monospace から選択)
+# font="Sans-serif"
