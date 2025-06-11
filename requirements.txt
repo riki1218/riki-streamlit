@@ -1,7 +1,6 @@
-treamlit
-numpy
-pandas
-RunnablePassthrough, RunnableLambda
+streamlit
+RunnablePassthrough
+RunnableLambda
 StrOutputParser
 ChatPromptTemplate
 WebBaseLoader
@@ -9,3 +8,14 @@ HuggingFaceEmbeddings
 Chroma
 ChatGoogleGenerativeAI
 RecursiveCharacterTextSplitter
+Image
+pandas
+numpy
+langchain
+langchain-community
+langchain-google-genai
+python-dotenv
+bs4
+chromadb
+huggingface_hub
+altair
